@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/ProyectoPrueba/.vs
+/ProyectoPrueba/bin/Debug/net7.0
+/ProyectoPrueba/obj
